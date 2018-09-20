@@ -1,0 +1,3 @@
+- ajouter une représentation de l'état courant (différents sprites ?)
+- revoir boucle d'affichage --> passer au clipping
+
